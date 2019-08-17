@@ -1,0 +1,56 @@
+/**
+ * FONT FAMILY
+ */
+ $font-family-primary: "exo";
+ $font-family-global: "arial";
+
+ /*
+ * COLORS
+ */
+ $colors-branding : (
+     "primary": "#3dc154",
+     "secondary": "#ffba7a"
+ );
+
+ $colors-neutrals: (
+     "white": "white",
+     "black": "black",
+     "grey": "#7f7f7f",
+     "grey-light": "#cbcbcb"
+ );
+
+ $colors-semanctic: (
+     "success": "#059d2b",
+     "danger": "#ffd0a5",
+     "error": "#ff0000",
+     "message": "#5075ea"
+ );
+
+ /*
+ * FONT SIZE
+ */
+ $font-size-global: "13";
+ $font-size-h1: "32";
+ $font-size-h2: "26";
+ $font-size-h3: "24";
+ $font-size-h4: "20";
+ $font-size-h5: "18";
+ $font-size-h6: "16";
+
+/*
+* FONT SIZE - MEASURE
+*/
+$measure: "rem";
+
+/*
+* MEDIA-QUERIES
+*/
+$media-queries: (
+    "x-sm": "320",
+    "sm": "520",
+    "md": "800",
+    "lg" : "1024"
+);
+
+
+
